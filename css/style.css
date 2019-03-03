@@ -219,3 +219,13 @@ body {
 .footer-copyright a:active {
     color: rgba(255, 255, 255, 0.3);
 }
+
+.summary-list code {
+    background-color: #e1e1e1;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+.summary-list ul p {
+    font-weight: bold;
+}
